@@ -29,6 +29,6 @@ Given a time in the <code>HH:mm</code> format, calculate the <em>shorter</em> an
 
 <br><hr>
 
-As always, if you have any question please send me an email at thomas.lauer@mnsu.edu.
+As always, if you have any questions please send me an email at thomas.lauer@mnsu.edu.
 
 I will see you on Tuesday!
