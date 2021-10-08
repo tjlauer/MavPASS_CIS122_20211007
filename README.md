@@ -1,6 +1,6 @@
 # MavPASS_CIS122_20211007
 
-### More logic problems!
+### More logic problems! The "Clock Angle" problem.
 
 Today we decided to relax a bit after the exam, so we did a logic problem!
 
