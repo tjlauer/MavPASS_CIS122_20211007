@@ -4,13 +4,13 @@
 
 Today we decided to relax a bit after the exam, so we did a logic problem!
 
-<br><hr>
+<hr>
 
 ## The Problem
 
 Given a time in the <code>HH:mm</code> format, calculate the <em>shorter</em> angle between the two hands of an analog clock in degrees.
 
-<br><hr>
+<hr>
 
 ## The Files
 
