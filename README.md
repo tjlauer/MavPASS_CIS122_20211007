@@ -30,7 +30,6 @@ Given a time in the <code>HH:mm</code> format, calculate the <em>shorter</em> an
 ![A picture of the whiteboard](https://github.com/tjlauer/MavPASS_CIS122_20211007/blob/main/Whiteboard.jpg?raw=true)
  - A picture of the whiteboard that the students used to work out a solution to the problem.
  - <em>All students present worked collaboratively on the whiteboard, i.e. each wrote something on the board.</em>
- - File = Whiteboard.jpg
 
 <br><hr>
 
